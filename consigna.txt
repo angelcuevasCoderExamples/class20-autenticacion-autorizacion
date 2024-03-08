@@ -1,0 +1,9 @@
+A partir del sistema de login de la clase anterior, se implementará:
+
+1 - Un link desde la vista de login que diga “Restaurar contraseña”, el cual llevará a una nueva vista.
+
+
+2 - Esta nueva vista de restauración solicitará dos campos: el correo electrónico y la nueva contraseña a cambiar. 
+3 - NO REQUERIREMOS VERIFICACIÓN DE CORREO, esto lo haremos más adelante, solo indicaremos el correo y se deberá sustituir el password.
+4 - El nuevo password deberá estar Hasheado también.
+5 - Reintentar el login y corroborar que el usuario se pueda loguear correctamente.
